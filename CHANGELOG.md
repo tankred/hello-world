@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.3.0] - 2021-09-20
+### Changed
+- Mobile first design
+
 ## [0.2.0] - 2020-11-16
 ### Added
 - This CHANGELOG file

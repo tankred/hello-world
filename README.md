@@ -29,3 +29,4 @@ Add link to license file for details
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
+* [A Ridiculously Simple Way For Creating Responsive Web Apps](https://dev.to/domagojvidovic/a-ridiculously-simple-way-for-creating-responsive-web-apps-1f43)
