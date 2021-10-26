@@ -1,6 +1,6 @@
 # Hello world site.js
 
-One Paragraph of project description goes here
+Simple site using site.js
 
 ## Getting Started
 
@@ -30,3 +30,4 @@ Add link to license file for details
 
 * Hat tip to anyone whose code was used
 * [A Ridiculously Simple Way For Creating Responsive Web Apps](https://dev.to/domagojvidovic/a-ridiculously-simple-way-for-creating-responsive-web-apps-1f43)
+* [https://sitejs.org](https://sitejs.org)
